@@ -3,6 +3,6 @@
     "DirLinCan": "/home/USER/.config/discordcanary/",
     "DirWin": "TODO",
     "DirWinCan": "TODO",
-    "DirMac": "TODO",
-    "DirMacCan": "TODO"
+    "DirMac": "/Library/Application Support/discordcanary/quotes.json",
+    "DirMacCan": "/Library/Application Support/discord/quotes.json"
 }
